@@ -1,0 +1,3 @@
+﻿  Employee Management System.cpp
+H:\code\cpp Projects\Employee Management System\Employee Management System\Employee Management System.cpp(42,19): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\code\cpp Projects\Employee Management System\Employee Management System\Employee Management System.cpp(245,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
